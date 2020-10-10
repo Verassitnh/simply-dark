@@ -4,6 +4,9 @@
     "description": "A dark theme with bright colors",
     "version": "0.0.1",
     "publisher": "Verassitnh",
+    "repository": {
+        "url": "htps://github.com/Verassitnh/simply-dark"
+    },
     "engines": {
         "vscode": "^1.49.0"
     },
