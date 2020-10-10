@@ -1,0 +1,21 @@
+{
+    "name": "simply-dark",
+    "displayName": "Simply Dark",
+    "description": "A dark theme with bright colors",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Simply Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Simply Dark-color-theme.json"
+            }
+        ]
+    }
+}
